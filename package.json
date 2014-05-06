@@ -1,0 +1,27 @@
+{
+  "name": "fs-github",
+  "version": "1.0.0",
+  "description": "github replacement for file system",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/swang/fs-github"
+  },
+  "keywords": [
+    "fs",
+    "github"
+  ],
+  "author": "Shuan Wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swang/fs-github/issues"
+  },
+  "homepage": "https://github.com/swang/fs-github",
+  "dependencies": {
+    "hyperquest": "^0.3.0",
+    "request": "^2.34.0"
+  }
+}
